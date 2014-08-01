@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.launcher2.stress;
+package com.wqqgt.simplelauncher.stress;
 
 
-import com.android.launcher2.Launcher;
+import com.wqqgt.simplelauncher.Launcher;
 
 import android.content.pm.ActivityInfo;
 import android.os.SystemClock;
