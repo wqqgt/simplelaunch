@@ -95,7 +95,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.android.common.Search;
 import com.wqqgt.simplelauncher.R;
 import com.wqqgt.simplelauncher.DropTarget.DragObject;
 
